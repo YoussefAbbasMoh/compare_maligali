@@ -1,0 +1,190 @@
+{
+  "project_info": {
+    "project_number": "66754744895",
+    "project_id": "maligali-5bac7",
+    "storage_bucket": "maligali-5bac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66754744895:android:51acb981ba66ad4649de8a",
+        "android_client_info": {
+          "package_name": "com.absai.Bqala_Go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66754744895-2vpdc77tf7hp3coa8kuamlqo8o3vdd3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.absai.Bqala_Go",
+            "certificate_hash": "52e2759624639574af16f2ae15602c3126348ef5"
+          }
+        },
+        {
+          "client_id": "66754744895-5pk3npub4pqk4vl7eos2jt8i1alh6bqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.absai.Bqala_Go",
+            "certificate_hash": "46f81c671b711b1fe62c2a6f73dd6791870d9dc3"
+          }
+        },
+        {
+          "client_id": "66754744895-9uk2uuefg96e0kcun8iufji2e0u6f698.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.absai.Bqala_Go",
+            "certificate_hash": "49fb0fe8ec8001186a6e056895d5d4c9a940d6a1"
+          }
+        },
+        {
+          "client_id": "66754744895-bl989uf0mckn3rr64nj510p0saq9v27s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.absai.Bqala_Go",
+            "certificate_hash": "f7ef93e639e50a57cae8d9a4bb8b43a5b436f488"
+          }
+        },
+        {
+          "client_id": "66754744895-hfcfhtk70s86j62o97tlbqghbrcfdst4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.absai.Bqala_Go",
+            "certificate_hash": "18a1aa5a2e5eecfbea813a7ea91a59df3bd9aed9"
+          }
+        },
+        {
+          "client_id": "66754744895-u3og7ob56pv8t8tg9f30bukjn9dlf96j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.absai.Bqala_Go",
+            "certificate_hash": "55d09f9effd8a5e85492c2c57914be6fc6c18253"
+          }
+        },
+        {
+          "client_id": "66754744895-m0d0sl19nnue0g39i46201g9aovb8qj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLri7BzYs25CQVaVSbtUiQpFQkqe97PFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66754744895-de6l31tq0tgb5oiopso5b231t24lhfh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "66754744895-as4q1hlgasji1jr9idb56cgbbtv16jts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.Mhalatko"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66754744895:android:583566f5a1d19a3049de8a",
+        "android_client_info": {
+          "package_name": "com.absai.mali_gali_assist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66754744895-fc5su6svb87uv4n9fflhjpt5icj0i478.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.absai.mali_gali_assist",
+            "certificate_hash": "fe309e951be4af75d32c63ab8f391e83c46fe503"
+          }
+        },
+        {
+          "client_id": "66754744895-hk19s9osv4k8lscdd9f964bfp4fmrrk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.absai.mali_gali_assist",
+            "certificate_hash": "0a4db6b465389c04c8e49452d1eab77946e2aa27"
+          }
+        },
+        {
+          "client_id": "66754744895-m0d0sl19nnue0g39i46201g9aovb8qj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLri7BzYs25CQVaVSbtUiQpFQkqe97PFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66754744895-de6l31tq0tgb5oiopso5b231t24lhfh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "66754744895-as4q1hlgasji1jr9idb56cgbbtv16jts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.Mhalatko"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66754744895:android:5e9736b7306a1e8949de8a",
+        "android_client_info": {
+          "package_name": "com.absai.maligali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66754744895-c00hqn7r785idtjedg4h3ii5ebm83v08.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.absai.maligali",
+            "certificate_hash": "49fb0fe8ec8001186a6e056895d5d4c9a940d6a1"
+          }
+        },
+        {
+          "client_id": "66754744895-m0d0sl19nnue0g39i46201g9aovb8qj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLri7BzYs25CQVaVSbtUiQpFQkqe97PFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66754744895-de6l31tq0tgb5oiopso5b231t24lhfh0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "66754744895-as4q1hlgasji1jr9idb56cgbbtv16jts.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.Mhalatko"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
